@@ -1,4 +1,4 @@
-package com.ersted_me.structural.bridge;
+package com.ersted_me.basepatterns.structural.bridge;
 
 public class BBCompany extends BuilderCompany {
     public BBCompany(Bridge bridge) {

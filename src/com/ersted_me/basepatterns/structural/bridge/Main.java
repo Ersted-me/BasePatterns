@@ -1,4 +1,4 @@
-package com.ersted_me.structural.bridge;
+package com.ersted_me.basepatterns.structural.bridge;
 
 public class Main {
     public static void main(String[] args) {

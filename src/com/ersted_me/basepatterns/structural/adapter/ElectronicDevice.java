@@ -1,4 +1,4 @@
-package com.ersted_me.structural.adapter;
+package com.ersted_me.basepatterns.structural.adapter;
 
 public class ElectronicDevice {
     public void powerOn(TypeASocket typeASocket){

@@ -1,4 +1,4 @@
-package com.ersted_me.structural.composite;
+package com.ersted_me.basepatterns.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;

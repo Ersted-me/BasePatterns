@@ -1,4 +1,4 @@
-package com.ersted_me.structural.bridge;
+package com.ersted_me.basepatterns.structural.bridge;
 
 public abstract class BuilderCompany {
     protected Bridge bridge;
