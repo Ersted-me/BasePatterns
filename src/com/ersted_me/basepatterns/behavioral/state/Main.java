@@ -5,10 +5,10 @@ public class Main {
         Alarm alarm = new Alarm();
         alarm.playSong();
 
-        alarm.setState(new TurnOn());
+        alarm.changeState();
         alarm.playSong();
 
-        alarm.setState(new TurnOff());
+        alarm.changeState();
         alarm.playSong();
     }
 }

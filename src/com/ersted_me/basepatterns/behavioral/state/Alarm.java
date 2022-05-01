@@ -14,4 +14,12 @@ public class Alarm {
     public void playSong(){
         state.doAction();
     }
+
+    public void changeState(){
+        if(state instanceof TurnOff){
+            state = new TurnOn();
+        }else if(state instanceof TurnOn){
+            state = new TurnOff();
+        }
+    }
 }
